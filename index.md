@@ -1,6 +1,5 @@
 # SHRUTHI SARANG S KAMATH
-
-📞 8714287359 | ✉️ sarangshruthi03@gmail.com  
+ ✉️ sarangshruthi03@gmail.com  
 Fourth-Year B.A. LL.B. (Hons.), SASTRA Deemed to be University, Thanjavur  
 
 ---
