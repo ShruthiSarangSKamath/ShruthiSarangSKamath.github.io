@@ -17,7 +17,7 @@ Aspiring legal professional seeking internships to gain practical exposure in li
 ---
 
 ## Internship Experience
-**M.M. Deepa & Associates,Ernakulam **  
+M.M. Deepa & Associates,Ernakulam  
 - *20 June 2025 – 20 July 2025 (4 weeks 2 days)*  
 - *20 Dec 2024 – 19 Jan 2025 (4 weeks 3 days)*  
 - *12 Jan 2024 – 2 Feb 2024 (3 weeks)*  
