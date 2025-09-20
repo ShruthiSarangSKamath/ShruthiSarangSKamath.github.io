@@ -54,3 +54,7 @@ M.M. Deepa & Associates,Ernakulam
 
 ## Interests
 Music | Painting | Art
+## Links
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [GitHub](https://github.com/your-username)
+- [Research Publication DOI](https://doij.org/10.10000/IJLMH.116309)
