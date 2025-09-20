@@ -17,14 +17,14 @@ Aspiring legal professional seeking internships to gain practical exposure in li
 ---
 
 ## Internship Experience
-**M.M. Deepa & Associates, Thanjavur**  
+**M.M. Deepa & Associates, **  
 - *20 June 2025 – 20 July 2025 (4 weeks 2 days)*  
 - *20 Dec 2024 – 19 Jan 2025 (4 weeks 3 days)*  
 - *12 Jan 2024 – 2 Feb 2024 (3 weeks)*  
 - *13 Sep 2024 – 27 Sep 2024 (2 weeks)*  
 - *20 Feb 2023 – 20 Mar 2023 (4 weeks)*  
 
-*Worked under Adv. Deepa and Adv. Sudha in legal drafting, client preparation, case law research, and court documentation.*  
+*Worked under Adv. Deepa Advocate, Kerala High Court and Adv. Sudha in legal drafting, client preparation, case law research, and court documentation.*  
 
 ---
 
