@@ -1,3 +1,6 @@
 title: "Shruthi Sarang S Kamath - Resume"
 description: "Law student | Aspiring Legal Professional"
-theme: jekyll-theme-minimal
+theme: minima        # clean and simple
+theme: jekyll-theme-cayman  # modern card-style
+theme: jekyll-theme-slate   # professional look
+theme: jekyll-theme-midnight # dark mode
