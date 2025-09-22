@@ -24,7 +24,7 @@ M.M. Deepa & Associates,Ernakulam
 - *13 Sep 2024 – 27 Sep 2024 (2 weeks)*  
 - *20 Feb 2023 – 20 Mar 2023 (4 weeks)*  
 
-*Worked under Adv. Deepa Advocate, Kerala High Court and Adv. Sudha in legal drafting, client preparation, case law research, and court documentation.*  
+*Worked under Adv. Deepa Advocate, Kerala High Court and Adv. Sudha, Kerala High Court in legal drafting, client preparation, case law research, and court documentation.*  
 
 ---
 
@@ -55,6 +55,6 @@ M.M. Deepa & Associates,Ernakulam
 ## Interests
 Music | Painting | Art
 ## Links
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [GitHub](https://github.com/your-username)
 - [Research Publication DOI](https://doij.org/10.10000/IJLMH.116309)
+- [LinkedIn](https://www.linkedin.com/in/shruthi-sarang-s-kamath)
+
